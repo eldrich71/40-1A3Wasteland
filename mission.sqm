@@ -132,7 +132,7 @@ class Mission
 	class Intel
 	{
 		briefingName="40-1 A3Wasteland Altis v1.2";
-		overviewText="Wasteland survival sandbox by 40-1 - visit www.40-1.net for more details. Teamspeak: 173.199.64.246:9107";
+		overviewText="Wasteland survival sandbox by 40-1 - visit www.40-1.net for more details. Teamspeak: 40-1.teamspeak3.40-1.net";
 		resistanceWest=0;
 		timeOfChanges=3e+038;
 		startWeather=0;
@@ -13340,7 +13340,7 @@ class Mission
 		{
 			position[]={12023.773,0.090267554,25987.053};
 			name="teamspeak";
-			text="TEAMSPEAK: 173.199.64.246:9107";
+			text="TEAMSPEAK: 40-1.teamspeak3.40-1.net";
 			type="mil_box";
 			colorName="ColorWEST";
 			angle=-270;

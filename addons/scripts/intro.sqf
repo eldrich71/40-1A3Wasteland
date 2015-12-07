@@ -6,7 +6,7 @@ _messages = [
 	["40-1", "A3Wasteland"],
 	["Welcome", (name player)],
 	["A3Wasteland", worldName],
-	["Teamspeak", "173.199.64.246:9107"],
+	["Teamspeak", "40-1.teamspeak3.40-1.net"],
 	["Website/Forums", "www.40-1.net"],
 	["ATM / Bank", "ATMs are marked on the map."],
 	["Earplugs", "Put in your earplugs by using the END key."]

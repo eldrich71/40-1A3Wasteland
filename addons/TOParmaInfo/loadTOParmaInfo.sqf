@@ -22,7 +22,7 @@ _serverInfoString = format ["<t color='#A0FFFF'>40-1 #%1 %2 Wasteland</t>", call
 _serverInfoText ctrlSetStructuredText parseText _serverInfoString;
 
 _generalInfoText = _display displayCtrl TOParmaInfo_General_Info_BG;
-_generalInfoString = "Website: <t color='#0091CD'><a href='http://www.40-1.net'>40-1.net</a></t> Forums: <t color='#0091CD'><a href='http://www.40-1.net'>40-1 Forum</a></t> TeamSpeak: ts 173.199.64.246:9107";
+_generalInfoString = "Website: <t color='#0091CD'><a href='http://www.40-1.net'>40-1.net</a></t> Forums: <t color='#0091CD'><a href='http://www.40-1.net'>40-1 Forum</a></t> TeamSpeak: 40-1.teamspeak3.40-1.net";
 _generalInfoText ctrlSetStructuredText parseText _generalInfoString;
 
 

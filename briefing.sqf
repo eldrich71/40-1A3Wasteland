@@ -307,7 +307,7 @@ player createDiaryRecord ["changelog",
 
 player createDiaryRecord ["changelog",
  [
-"NL United",
+"40-1",
 "
 <br/> [Added] Base locker (It is hackable and destroyable)
 <br/> [Added] Base doors with keypad
