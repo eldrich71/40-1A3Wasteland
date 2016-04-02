@@ -29,7 +29,7 @@ else
 	// Low Administrators: manage & spectate players, remove hacked vehicles
 	lowAdmins = compileFinal str
 	[
-		// Put player UIDs here
+		"76561198035573289"  // Put player UIDs here
 	];
 
 	// High Administrators: manage & spectate players, remove hacked vehicles, show player tags
