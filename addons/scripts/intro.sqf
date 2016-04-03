@@ -10,7 +10,7 @@ _messages = [
 	["Website/Forums", "www.40-1.net"],
 	["ATM / Bank", "ATMs are marked on the map."],
 	["Earplugs", "Put in your earplugs by using the END key."],
-	["Admin", "Admin cannot teleport or spawn cash/items we play the same as you plz remember this before you shout admin abuse :)."]
+	["Admin", "Admin cannot teleport or spawn cash/items we play the same as you plz remember this before you shout admin abuse."]
 ];
 
 _timeout = 5;
