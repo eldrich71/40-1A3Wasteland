@@ -9,7 +9,7 @@ _messages = [
 	["Teamspeak", "40-1.teamspeak3.40-1.net"],
 	["Website/Forums", "www.40-1.net"],
 	["ATM / Bank", "ATMs are marked on the map."],
-	["Earplugs", "Put in your earplugs by using the END key."]
+	["Earplugs", "Put in your earplugs by using the END key."],
 	["Admin", "Admin cannot teleport or spawn cash/items we play the same as you plz remember this before you shout admin abuse :)."]
 ];
 
