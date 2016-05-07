@@ -147,10 +147,10 @@ _successExec =
 		_box1 setDir random 360;  
 		[_box1, "mission_USSpecial"] call fn_refillbox; 
 
-
 		_box2 = createVehicle ["Box_East_Wps_F", (getPosATL _veh) vectorAdd ([[_veh call fn_vehSafeDistance, 0, 0], random 360] call BIS_fnc_rotateVector2D), [], 5, "None"];  
 		_box2 setDir random 360;  
-		[_box2, "mission_USLaunchers"] call fn_refillbox;  
+		[_box2, "mission_USLaunchers"] call fn_refillbox;
+		{ _x setVariable ["R3F_LOG_disabled", false, true] } forEach [_box1, _box2];		
 	}; 
 
 	
